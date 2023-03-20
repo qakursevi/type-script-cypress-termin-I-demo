@@ -1,0 +1,23 @@
+{
+  "name": "type-script-cypress-termin-i-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qakursevi/type-script-cypress-termin-I-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qakursevi/type-script-cypress-termin-I-demo/issues"
+  },
+  "homepage": "https://github.com/qakursevi/type-script-cypress-termin-I-demo#readme",
+  "dependencies": {
+    "cypress": "^12.8.1",
+    "typescript": "^5.0.2"
+  }
+}
